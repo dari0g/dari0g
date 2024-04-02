@@ -6,7 +6,7 @@ I'm a Security Engineer @ Collibra
 
 * 🌍  I'm based in Miami, Florida
 * ✉️  You can contact me at [dariogm@proton.me](mailto:dariogm@proton.me)
-* 🧠  I'm spend my free time learning Cloud Security & Kubernetes Security
+* 🧠  I'm currently spending my free time learning Cloud Security & Kubernetes Security
 
 ### Skills
 
