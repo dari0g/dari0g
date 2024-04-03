@@ -1,7 +1,7 @@
 Hi 👋 My name is Dario
 ===============================
 
-I'm a Security Engineer @ Collibra
+I'm a Senior Security Engineer @ Collibra
 ----------------------------
 
 * 🌍  I'm based in Miami, Florida
